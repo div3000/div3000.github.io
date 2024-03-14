@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=_turnstileCb" async defer></script>
+    </head>
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+        }
+        body{
+            font-size:16px;
+            font-family:sans-serif;
+        }
+        #cj{
+            margin:4rem auto;
+            width:100%;
+            max-width:300px;
+        }
+        h1{
+            font-size:1.25rem;
+            font-weight:700;
+            margin:1rem 0;
+        }
+        p{
+            font-size:.875rem;
+            margin:0 0 1rem 0;
+        }
+        #logo{
+            margin:0 auto 1rem auto;
+            max-width:230px;
+        }
+        #logo svg{
+            fill:#2062af;
+        }
+        #myWidget {
+            padding: 0px;
+            margin: 0px;
+        }
+    </style>
+    <body>
+        <div id="cj">
+            <div id="myWidget" ></div>
+            <h1></h1>
+            <p></p>
+            <p></p>
+            <p>window.location.href: <div id="locationhref"></div></p>
+        </div>
+        <script>
+            document.getElementById("locationhref").innerHTML = window.location.href;
+            // This function is called when the Turnstile script is loaded and ready to be used.
+            // The function name matches the "onload=..." parameter.
+            function _turnstileCb() {
+                turnstile.render('#myWidget', {
+                    sitekey: '0x4AAAAAAAUxS6eXTNGHut1S',
+                    size: 'normal',
+                    callback: (token) => {
+                        // Success callback, which sets the token into a separate store slice.
+                        console.log(token)
+                    },
+                });
+
+            }
+        </script>
+    </body>
+</html>
