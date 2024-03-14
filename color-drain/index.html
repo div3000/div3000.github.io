@@ -1,0 +1,63 @@
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Color Drain</title>
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="cartographer.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta content='width=device-width, initial-scale=1.0, user-scalable=0' name=viewport />
+	<style type="text/css">
+        @font-face {
+          font-family: 'Shadows';
+          font-style: normal;
+          font-weight: 400;
+          src: url('Shadows.ttf') format('truetype');
+          unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+        }
+        @font-face {
+          font-family: 'picto';
+          font-style: normal;
+          font-weight: normal;
+          src: url('picto.ttf?22743939') format('truetype');
+        }
+        html, body, div, canvas 
+        {
+            margin: 0;
+            padding: 0;
+        }
+        #gameRenderer 
+        {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        #loading {    
+            width:100%;
+            height:100%;
+            position:absolute;
+            top:0; left:0;
+            text-align:center;
+            background: white;
+            display: flex;
+            flex-flow: row wrap;
+            align-content:center; 
+            align-items:center;
+        }
+        #loadingImg {
+            display: block;
+            margin-left: auto;
+            margin-right: auto
+        }
+	</style>
+</head>
+<body>
+    <div id="loading">
+        <img id="loadingImg" src="load.gif" />     
+    </div>
+    <script src="lib/cocoon.min.js"></script>
+    <script src="lib/howler.min.js"></script>
+    <script src="lib/pixi.js"></script>
+    <script src="lib/webfont.js"></script>
+    <script src="main.min.js"></script>
+</body></html>
