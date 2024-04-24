@@ -60,6 +60,9 @@
                         // Success callback, which sets the token into a separate store slice.
                         console.log(token)
                     },
+                    'error-callback': (error) => {
+                        console.log(error)
+                    }
                 });
 
             }
