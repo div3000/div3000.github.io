@@ -7,49 +7,9 @@
   "headerURL": "https://images.squarespace-cdn.com/content/v1/61939cd47f722d798b305763/8e06182e-862f-48b1-8a59-49bed3c51109/banner_download_game_4.jpg",
   "apps": [
     {
-      "name": "SquadBlast",
-      "bundleIdentifier": "com.ultrahorse.squadblast",
-      "marketplaceID": "6444757950",
-      "developerName": "ULTRAHORSE",
-      "subtitle": "Run'n'Gun now!",
-      "versions": [
-        {
-          "version": "0.9.158",
-          "buildVersion": "22784",
-          "date": "2025-07-04T13:13:51-00:00",
-          "localizedDescription": "Hey Fighters!\n\nThis time around, we've cooked up a batch of minor improvements and bug fixes to crank up the performance and keep things rock solid in terms of stability.",
-          "downloadURL": "https://cdn.squadblast.com/game/ios_latest/38c2a9b6-d880-4f36-ad93-bdf05b0b78ca/82e86e14-c8c5-4b2f-983c-75c15a5d322f/",
-          "size": 77904482,
-          "minOSVersion": "15.0"
-        }
-      ],
-      "localizedDescription": "SquadBlast is a multiplayer side-scrolling shooter. Its team-based battles are an innovative take on a shooter that you have to experience — meticulously balanced for fairness and incredibly easy to pick up and play. In SquadBlast, every bullet matters. You'll need to adapt diverse lines of attack to claim victory in a variety of modes.\nThe year is 2042 and the state of the planet has been in decline: bankrupt governments and ruthless dictators are plentiful, while selfish corporations rule the world. Injustice against the powerless population is rampant. But there is hope. Armed gangs organized by a shadowy organization are intent on battling the oppressive evil.\n\nDEEP CLASS-BASED COMBAT\nChoose from a roster of heroes, each with their own abilities, to turn the tide of battle in your team’s favor. You’re sure to find a favorite, but you’ll have to master them all – and even swap heroes mid-battle – to shut down your opponents’ dreams of victory!\n\nAN FPS IN DISGUISE\nBring all your skills from your favorite FPS. Swap to your secondary after unloading with your main. Equip your melee weapon to run unburdened. Rocketjump for a greater vertical leap. Slide down ramps, bunny hop, vault over projectiles and more.\n\nMEATY MULTIPLAYER\nJump into battle to master each essential multiplayer mode, from TDM to Capture the Point to Payload. Better yet, pick a custom match to choose the map, mode, and rules that suit you best. Always expect a smooth experience since all the action is synced with perfect rollback netcode. Lead your squad to striking locations across the troubled world of 2042.\n\nGUNS GALORE\nOne thing's for sure – there are tons of guns in SquadBlast, from assault rifles to rocket launchers to experimental supa weapons. Get your hands on each one and get a feel for the play style that maximizes its effectiveness.\n\nSUPER COMFY CONTROLS\nPick up and play! All the controls are right where you'd expect them to be whether you're playing with a controller or mouse and keyboard.\n\n\n“Intoxicating for shooter fans.” \n– Dexerto \n\n“SquadBlast just feels good to play”\n– Push Square\n\n“The gunplay is tight and the movement is quick and easy to grasp.” \n– The Gamer\n\n“It really is quite brilliant.”\n– VG247\n\nWorks with: iPhone XS, 11, 11Pro, 12, 12Pro, 13, 13Pro, 14, 14Pro, 15, 15Pro; iPad Mini 6; iPad 10, iPad Air 4; iPadPro\nSquadBlast does not support: iPhone 5S, 6, 6 Plus, SE, 6S, 6S Plus, 7, 7 Plus, 8, 8Plus, X; XR; iPad Air, 2, 3, Mini 2, 3, 4, 5; iPod Touch",
-      "iconURL": "https://images.squarespace-cdn.com/content/v1/61939cd47f722d798b305763/a0345d53-bd18-4412-90c5-9c133b4fe33b/icon_main_1024.png",
-      "tintColor": "8A28F7",
-      "category": "games",
-      "appPermissions": {
-        "privacy": [
-          {
-            "name": "Microphone",
-            "usageDescription": "SquadBlast uses your microphone for voice chat."
-          },
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "SquadBlast uses the local network to communicate with other players."
-          }
-        ]
-      },
-      "screenshots": [
-        "https://images.squarespace-cdn.com/content/v1/61939cd47f722d798b305763/dde8113b-1904-4043-a4fc-6567eb81ae16/vertical_screen_01.jpg",
-        "https://images.squarespace-cdn.com/content/v1/61939cd47f722d798b305763/f1d5c3cc-f77f-4abd-8ec8-acbcf3ae3716/vertical_screen_02.jpg",
-        "https://images.squarespace-cdn.com/content/v1/61939cd47f722d798b305763/6b296f02-77af-4276-bc4b-f01d73a3b448/vertical_screen_03.jpg",
-        "https://images.squarespace-cdn.com/content/v1/61939cd47f722d798b305763/0aec2a43-ee05-404b-a8ad-c1b964fa7480/vertical_screen_04.jpg",
-        "https://images.squarespace-cdn.com/content/v1/61939cd47f722d798b305763/2b6885ad-8fe7-4656-8f5e-21fa345d602a/vertical_screen_05.jpg"
-      ]
-    },
-    {
       "beta": false,
-      "bundleIdentifier": "com.reddit.Reddit",
+      "bundleIdentifier": "com.reddit.RedditA",
+      "marketplaceID": "6444757950",
       "developerName": "level3tjg",
       "downloadURL": "https://github.com/qnblackcat/RedditFilter_Sideloaded/releases/download/v2023.50.1-1.1.1/RedditFilter_2023.50.1_1.1.1.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/free-reddit-logo-icon-2436-thumb.png",
@@ -89,29 +49,8 @@
     },
     {
       "beta": false,
-      "bundleIdentifier": "com.facebook.Facebook",
-      "developerName": "Michael Lema & Qn_",
-      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/Efkyz3QAKyFNouUBvVdZbi0ByCqJToLW78ctOkSB5ayBUw?download=1",
-      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/Facebook-icon.png",
-      "localizedDescription": "Wolf is an updated Facebook tweak with powerful features! You can access the tweak settings in Facebook's settings page.\n\nLearn how to make your own IPA of Facebook Wolf here: https://github.com/qnblackcat/FBSideloadfix\n\nFEATURES:\n• No feed ads\n• No story ads\n• Disable marking messages as seen\n• Disable typing status in messages\n• Disable marking stories\n• Disable auto-advance in stories\n• Save Story images and videos\n• Save Feed videos by long-pressing the video\n\nNOTES:\n• I'm not the developer of Wolf. This is not an official version of Wolf.\n• Michael Lema, the developer of Wolf,  hasn't updated Wolf for a while. Expect some features may not work correctly.",
-      "name": "Facebook Wolf",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/wolf2.jpg",
-        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2698.PNG",
-        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2699.PNG",
-        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2700.PNG",
-        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2701.PNG"
-      ],
-      "size": 152672665,
-      "subtitle": "A tweaked version of \"Wolf\" (made by Michael Lema). Requires iOS 12.4 and later.",
-      "tintColor": "478EE2",
-      "version": "402.0",
-      "versionDate": "2023-02-22T14:00:00-00:30",
-      "versionDescription": "v402.0 (2.1): Updated to the latest version of Facebook app"
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleIdentifier": "com.google.ios.youtubeA",
+      "marketplaceID": "6444757951",
       "developerName": "MiRO92 & Qn_",
       "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v19.08.2-3.0.3/uYouPlus-19.08.2-3.0.3.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
@@ -133,7 +72,7 @@
     }
   ],
   "featuredApps": [
-    "com.ultrahorse.squadblast"
+    "com.reddit.RedditA"
   ],
   "news": [
     {
